@@ -11,3 +11,7 @@ A modern and responsive landing page inspired by Adidas branding, built using HT
 
 # Note
 This project is for educational purposes only and is not affiliated with Adidas.
+
+## 🌐 Live Demo
+👉 [Click here to view project](https://usf-07.github.io/Responsive-Adidas-Web-Interface-HTML-CSS-/)
+This is a responsive landing page built using HTML and CSS.
